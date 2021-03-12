@@ -1,0 +1,16 @@
+Make sure you read carefully every point. It’s really important. This task and document link on post job include important moments :)
+
+Note: 1. APK/AAB should work on both 32-bit and 64-bit devices and app’s target API level must be at least 29
+2. SOURCE CODE INCLUDE ALL PROJECT FOLDER WITH SPRITES, MUSIC AND ETC
+3. ON BUNDLE ID AND ALIAS, PASSWORDS PLEASE DON’T USE ”AYNA”, “TUNA”, “MAKEAPP”, “DEFAULT” OR “EXAMPLE”
+
+READY PROJECT WHAT YOU SEND ON GOOGLE DRIVE OR ANOTHER FILE KEEPER MUST BE LIKE THIS:
+1 Zip file Name app
+-folder apk/aab (with his name and own icon)
+-folder keystore (keystore file, info about keystore password and name, alias name and password, bundle ID, build version)
+-source code (source with all folders even library)
+
+If you agree with the price, time (7 days) and task we can start
+
+If you have some questions i'm ready to answer from monday till friday 10.00 - 18.00 Moscow time :)
+password-sushant
